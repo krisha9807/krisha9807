@@ -1,68 +1,80 @@
-<h1 align="center">Hi there, I'm Krisha Chaudhari 👋</h1>
-<h3 align="center">B.Tech IT Student | Full-Stack Developer | ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/krishachaudhari9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chaudharykrisha438@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+# Krisha Chaudhari
 
----
+**B.Tech IT (3rd Year) · Full-Stack & ML Developer · Ahmedabad, India**
 
-### 🚀 About Me
+🟢 **Open to Internship Opportunities — 2026/2027**
 
-- 🎓 B.Tech in Information Technology, LJ Institute of Engineering & Technology (2024–2028) — CGPA: **8.29**
-- 💻 Hands-on experience in **full-stack development** (React, Node.js, Express, MySQL) and **machine learning** (KNN, Decision Tree, Random Forest)
-- 🧠 Built an AI-driven business analytics platform and a job-skills matching platform
-- 🏆 Recognized in **Google's Solution Challenge 2026** and **IFERP's ICRAET 2026**
-- 🌱 Currently learning **Django**
-- 🎯 Seeking a **technology internship** to apply and grow my skills
-- 📍 Based in Ahmedabad, Gujarat
+[![Portfolio](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishachaudhari9)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharykrisha438@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisha9807)
+
+</div>
 
 ---
 
-### 🛠️ Skills
+## 👩‍💻 About
 
-**Languages:** Java, Python, JavaScript
-**Web Development:** HTML, CSS, React.js, Node.js, Express.js
-**Database:** MySQL, DBMS
-**Data Structures & Algorithms:** Arrays, Linked Lists, Stacks, Queues, Trees
-**Machine Learning:** Linear Regression, Polynomial Regression, KNN, Decision Tree, Random Forest, SVM
-**Tools:** Beautiful Soup (Web Scraping), Git/GitHub, Django (Learning)
+I'm a third-year B.Tech Information Technology student at LJ Institute of Engineering & Technology (CGPA 8.29), building across the **full-stack + ML** stack. I've shipped an AI-driven business analytics platform and a skills-matching platform, and been recognized at **Google's Solution Challenge 2026** and **IFERP's ICRAET 2026**.
+
+I'm currently looking for a **technology internship** where I can contribute and keep leveling up.
 
 ---
 
-### 💼 Featured Projects
+## 🧰 Tech Stack
 
-#### 🔹 [BizMind AI](#) — 2026
-An AI-driven business analytics platform covering inventory, sales, customer, and finance modules, integrating an AI Copilot and real-time analytics dashboard.
-
-#### 🔹 [AI-Powered Job & Skills Matching Platform](#) — 2025
-A full-stack platform connecting job seekers and recruiters via intelligent skill-based matching, with secure authentication, profile management, and job posting workflows.
-
----
-
-### 🏅 Achievements & Certifications
-
-- ✅ Successful Prototype Submission, Solution Challenge 2026: Build with AI — **Google** (Jul 2026)
-- ✅ AI Fluency for Students — **Anthropic & Ringling College of Art + Design** (2026)
-- ✅ Research Poster Presentation, ICRAET 2026 — **IFERP Academy & LJK University** (Jun 2026)
-- 🥉 2nd Runner-Up, Prompt Craft — **Lakshya 2.0 TechFest**, L.D. College of Engineering (Apr 2026)
-- ✅ Communication Skills Course — **Cybage Khushboo** (Mar 2026)
-- ✅ Exploratory Data Analysis for Machine Learning — **IBM** (via Coursera, May 2026)
-- ✅ Introduction to HTML, CSS & JavaScript — **IBM** (via Coursera, Dec 2025)
-- ✅ Introduction to Java — **LearnQuest** (via Coursera, Jan 2025)
-- 🏁 TechFest Participation — Hackovate '25, Innovation Village '26 (LJ University), Tic Tech Toe '26 (DA-IICT)
+| Category | Stack |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **ML** | Linear/Polynomial Regression · KNN · Decision Tree · Random Forest · SVM |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) Beautiful Soup · Django *(learning)* |
+| **CS Fundamentals** | Arrays, Linked Lists, Stacks, Queues, Trees |
 
 ---
 
-### 📫 Connect with Me
+## 🚀 Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/krishachaudhari9" target="_blank">LinkedIn</a> •
-  <a href="mailto:chaudharykrisha438@gmail.com">Email</a> •
-  <a href="https://github.com/krisha9807" target="_blank">GitHub</a>
-</p>
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **BizMind AI** (2026) | AI-driven business analytics platform covering inventory, sales, customer, and finance modules, with an AI Copilot and real-time dashboard. | Python, AI/ML | [Repo →](https://github.com/krisha9807/BizMind_AI) |
+| **AI-Powered Job & Skills Matching Platform** (2025) | Full-stack platform connecting job seekers and recruiters via intelligent skill-based matching, with secure auth and job posting workflows. | React, Node.js, Express, MySQL | *Add repo link* |
+
+> Have more repos you'd like featured? Send me the links and I'll add them here.
 
 ---
 
-<p align="center"><i>⭐️ Thanks for stopping by my profile!</i></p>
+## 🏆 Achievements & Certifications
+
+- 🥇 Successful Prototype Submission, **Solution Challenge 2026: Build with AI** — Google *(Jul 2026)*
+- 📜 AI Fluency for Students — **Anthropic & Ringling College of Art + Design** *(2026)*
+- 📄 Research Poster Presentation, **ICRAET 2026** — IFERP Academy & LJK University *(Jun 2026)*
+- 🥉 2nd Runner-Up, **Prompt Craft** — Lakshya 2.0 TechFest, L.D. College of Engineering *(Apr 2026)*
+- 📜 Communication Skills Course — **Cybage Khushboo** *(Mar 2026)*
+- 📜 Exploratory Data Analysis for Machine Learning — **IBM** (Coursera) *(May 2026)*
+- 📜 Introduction to HTML, CSS & JavaScript — **IBM** (Coursera) *(Dec 2025)*
+- 📜 Introduction to Java — **LearnQuest** (Coursera) *(Jan 2025)*
+- 🎪 TechFest Participation — Hackovate '25, Innovation Village '26 (LJ University), Tic Tech Toe '26 (DA-IICT)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=krisha9807&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha9807&layout=compact&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Krisha%20Chaudhari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishachaudhari9)
+[![Gmail](https://img.shields.io/badge/-chaudharykrisha438%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chaudharykrisha438@gmail.com)
+[![GitHub](https://img.shields.io/badge/-krisha9807-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krisha9807)
+
+</div>
