@@ -63,9 +63,21 @@ I'm currently looking for a **technology internship** where I can contribute and
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" alt="Krisha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krisha9807&show_icons=true&theme=default&hide_border=true" />
-<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha9807&layout=compact&hide_border=true" />
+
+<img height="170" alt="Krisha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=krisha9807&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=krisha9807&theme=tokyonight&no-frame=true&row=1&column=6" />
+
 </div>
+
+> 📌 **Note:** These widgets are generated live from your GitHub activity. They render on **github.com** once added to your profile repo — some markdown previewers block external images, so they may appear blank outside of GitHub itself.
 
 ---
 
