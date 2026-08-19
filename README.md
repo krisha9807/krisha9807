@@ -120,11 +120,6 @@ I'm currently looking for a **technology internship** where I can contribute and
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/krisha9807&label=Repos&query=$.public_repos&style=for-the-badge&color=6C63FF&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=krisha9807&style=for-the-badge&color=blueviolet&label=Profile+Views)
 
-<br/><br/>
-
-<img height="170" alt="Krisha's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
