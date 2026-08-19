@@ -37,12 +37,64 @@ I'm currently looking for a **technology internship** where I can contribute and
 
 ## 🚀 Projects
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **BizMind AI** (2026) | AI-driven business analytics platform covering inventory, sales, customer, and finance modules, with an AI Copilot and real-time dashboard. | Python, AI/ML | [Repo →](https://github.com/krisha9807/BizMind_AI) |
-| **AI-Powered Job & Skills Matching Platform** (2025) | Full-stack platform connecting job seekers and recruiters via intelligent skill-based matching, with secure auth and job posting workflows. | React, Node.js, Express, MySQL | *Add repo link* |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Have more repos you'd like featured? Send me the links and I'll add them here.
+### 🧠 [BizMind AI](https://github.com/krisha9807/BizMind_AI)
+**Multi-tenant Enterprise ERP platform** with strict tenant isolation across products, customers, sales, inventory, and credit ledgers — feeding a centralized analytics hub with an executive dashboard, AI business insights, and an AI Copilot.
+
+`React` `Vite` `Tailwind` `Express` `Django REST` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [ShopHub – Digital Clothing Platform](https://github.com/krisha9807/digital_clothig_platform)
+**Amazon-inspired e-commerce frontend** with search-driven navigation, product pages, cart, a 4-step checkout flow, and an order-history dashboard — all state managed via localStorage, no backend required.
+
+`HTML5` `CSS3` `Bootstrap 5` `Vanilla JS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 [Job & Skills Matching Platform](https://github.com/krisha9807/skills_matching)
+**Multi-role hiring platform** connecting students, employees, and companies — with profile creation flows per user type, job postings, candidate matching, notifications, and authentication, backed by SQLite.
+
+`Python` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 [Hostel Management System](https://github.com/krisha9807/Hostel_management)
+**Console-based hostel administration system** handling student records and room/booking management with a clean object-oriented Java design.
+
+`Java`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ [Airline Reservation System](https://github.com/krisha9807/airline_reservation)
+**Console-based flight booking system** in Java, covering reservation logic and booking records for an airline ticketing workflow.
+
+`Java`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧳 [Tour & Travel Management System](https://github.com/krisha9807/tour_management)
+**Multi-module travel booking system** covering hotel bookings, transport, destinations, registration, payments, and booking history handlers — built with core Java + JDBC.
+
+`Java` `JDBC`
+
+</td>
+</tr>
+</table>
+
+> Want any of these swapped, added, or removed? Just tell me.
 
 ---
 
