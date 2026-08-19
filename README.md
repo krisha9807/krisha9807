@@ -75,12 +75,6 @@ I'm currently looking for a **technology internship** where I can contribute and
 
 </div>
 
-**Test these links directly in your browser** (open in a new tab) — if they show a broken image there too, it's the service, not the README:
-- Stats card: https://github-stats-extended.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true
-- Top Languages card: https://github-stats-extended.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true
-
-> 📌 **Note:** The original `github-readme-stats.vercel.app` service is now discontinued by its maintainers — that's why the cards weren't loading. These now point to **GitHub Stats Extended**, the actively maintained successor. The badges above (Followers, Repos, Profile Views) use shields.io and were unaffected.
-
 ---
 
 <div align="center">
