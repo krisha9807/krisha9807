@@ -41,54 +41,66 @@ I'm currently looking for a **technology internship** where I can contribute and
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [BizMind AI](https://github.com/krisha9807/BizMind_AI)
+### 🧠 BizMind AI
 **Multi-tenant Enterprise ERP platform** with strict tenant isolation across products, customers, sales, inventory, and credit ledgers — feeding a centralized analytics hub with an executive dashboard, AI business insights, and an AI Copilot.
 
-`React` `Vite` `Tailwind` `Express` `Django REST` `SQLite`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/-Django%20REST-092E20?style=flat-square&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**[🔗 View Repository →](https://github.com/krisha9807/BizMind_AI)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ [ShopHub – Digital Clothing Platform](https://github.com/krisha9807/digital_clothig_platform)
+### 🛍️ ShopHub – Digital Clothing Platform
 **Amazon-inspired e-commerce frontend** with search-driven navigation, product pages, cart, a 4-step checkout flow, and an order-history dashboard — all state managed via localStorage, no backend required.
 
-`HTML5` `CSS3` `Bootstrap 5` `Vanilla JS`
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**[🔗 View Repository →](https://github.com/krisha9807/digital_clothig_platform)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 [Job & Skills Matching Platform](https://github.com/krisha9807/skills_matching)
+### 🤝 Job & Skills Matching Platform
 **Multi-role hiring platform** connecting students, employees, and companies — with profile creation flows per user type, job postings, candidate matching, notifications, and authentication, backed by SQLite.
 
-`Python` `SQLite`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**[🔗 View Repository →](https://github.com/krisha9807/skills_matching)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 [Hostel Management System](https://github.com/krisha9807/Hostel_management)
+### 🏨 Hostel Management System
 **Console-based hostel administration system** handling student records and room/booking management with a clean object-oriented Java design.
 
-`Java`
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+**[🔗 View Repository →](https://github.com/krisha9807/Hostel_management)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ [Airline Reservation System](https://github.com/krisha9807/airline_reservation)
+### ✈️ Airline Reservation System
 **Console-based flight booking system** in Java, covering reservation logic and booking records for an airline ticketing workflow.
 
-`Java`
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+**[🔗 View Repository →](https://github.com/krisha9807/airline_reservation)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧳 [Tour & Travel Management System](https://github.com/krisha9807/tour_management)
+### 🧳 Tour & Travel Management System
 **Multi-module travel booking system** covering hotel bookings, transport, destinations, registration, payments, and booking history handlers — built with core Java + JDBC.
 
-`Java` `JDBC`
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**[🔗 View Repository →](https://github.com/krisha9807/tour_management)**
 
 </td>
 </tr>
