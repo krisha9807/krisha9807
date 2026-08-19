@@ -70,12 +70,16 @@ I'm currently looking for a **technology internship** where I can contribute and
 
 <br/><br/>
 
-<img height="170" alt="Krisha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" alt="Krisha's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-> 📌 **Note:** The badges above (Followers, Repos, Profile Views) use shields.io — the same reliable service as the Tech Stack badges — and load consistently. The two larger cards below them pull from a public GitHub-stats generator that can occasionally be slow to load or rate-limited; if they ever show blank on your live GitHub profile, refresh the page — they'll typically appear within a few seconds.
+**Test these links directly in your browser** (open in a new tab) — if they show a broken image there too, it's the service, not the README:
+- Stats card: https://github-stats-extended.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true
+- Top Languages card: https://github-stats-extended.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true
+
+> 📌 **Note:** The original `github-readme-stats.vercel.app` service is now discontinued by its maintainers — that's why the cards weren't loading. These now point to **GitHub Stats Extended**, the actively maintained successor. The badges above (Followers, Repos, Profile Views) use shields.io and were unaffected.
 
 ---
 
