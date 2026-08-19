@@ -64,20 +64,18 @@ I'm currently looking for a **technology internship** where I can contribute and
 
 <div align="center">
 
+![Followers](https://img.shields.io/github/followers/krisha9807?label=Followers&style=for-the-badge&color=0A66C2&logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/krisha9807&label=Repos&query=$.public_repos&style=for-the-badge&color=6C63FF&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=krisha9807&style=for-the-badge&color=blueviolet&label=Profile+Views)
+
+<br/><br/>
+
 <img height="170" alt="Krisha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krisha9807&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisha9807&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=krisha9807&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=krisha9807&theme=tokyonight&no-frame=true&row=1&column=6" />
-
 </div>
 
-> 📌 **Note:** These widgets are generated live from your GitHub activity. They render on **github.com** once added to your profile repo — some markdown previewers block external images, so they may appear blank outside of GitHub itself.
+> 📌 **Note:** The badges above (Followers, Repos, Profile Views) use shields.io — the same reliable service as the Tech Stack badges — and load consistently. The two larger cards below them pull from a public GitHub-stats generator that can occasionally be slow to load or rate-limited; if they ever show blank on your live GitHub profile, refresh the page — they'll typically appear within a few seconds.
 
 ---
 
