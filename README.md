@@ -2,11 +2,11 @@
 
 # Krisha Chaudhari
 
-**B.Tech IT (3rd Year) · Full-Stack & ML Developer · Ahmedabad, India**
+**IT Engineering Student · Full-Stack Developer · ML Enthusiast**
 
-🟢 **Open to Internship Opportunities — 2026/2027**
+📍 Ahmedabad, Gujarat, India &nbsp;|&nbsp; 🎓 3rd Year, B.Tech IT, LJ Institute of Engineering & Technology &nbsp;|&nbsp; 🟢 Open to Internship Opportunities
 
-[![Portfolio](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishachaudhari9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishachaudhari9)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharykrisha438@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisha9807)
 
@@ -131,10 +131,10 @@ I'm currently looking for a **technology internship** where I can contribute and
 
 <div align="center">
 
-### 📫 Let's Connect
+### 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Krisha%20Chaudhari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishachaudhari9)
-[![Gmail](https://img.shields.io/badge/-chaudharykrisha438%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chaudharykrisha438@gmail.com)
-[![GitHub](https://img.shields.io/badge/-krisha9807-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krisha9807)
+[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishachaudhari9)
+
+Thanks for visiting my profile — always happy to connect and collaborate! ⭐
 
 </div>
